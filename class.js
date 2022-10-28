@@ -72,7 +72,7 @@ form.addEventListener('submit', async (e) => {
   const msg = document.querySelector('.error-message');
   function clear() { msg.innerHTML = ''; }
 
-// Declaring variables for the booklist, and book's properties
+  // Declaring variables for the booklist, and book's properties
   const books = JSON.parse(localStorage.getItem('books')) || [];
   const title = document.getElementById('title');
   const author = document.getElementById('author');
