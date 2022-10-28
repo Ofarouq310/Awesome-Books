@@ -1,15 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books
 
-> Description the project.
+> A simple project built to create a booklist.
 
 
 ## Built With
 
-- HTML, CSS and JS
-- Frameworks: None
-- Technologies used: Linters
+#### Major languages:
+>- [x] HTML5
+>- [x] CSS3
+>- [x] Javascript
+
+#### Technologies used
+>- [x] Linters
 
 ## Live Demo (if available)
 
