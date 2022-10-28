@@ -11,12 +11,16 @@ const date = document.getElementById('date');
 const h4 = document.querySelector('h4');
 
 // Populating the Date
-const today = new Date();
-date.innerHTML = `${today.toLocaleDateString('en-US', {
-  month: 'long',
-  day: 'numeric',
-  year: 'numeric',
-})} ${today.toLocaleTimeString()}`;
+function populateDate() {
+  const today = new Date();
+  date.innerHTML = `${today.toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+  })} ${today.toLocaleTimeString()}`;
+}
+
+setInterval(populateDate, 1000);
 
 // Class Book ('Creating the Booklist')
 class Book {
