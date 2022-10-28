@@ -1,3 +1,5 @@
+// FUNCTIONS APPROACH //
+
 // Declaring varibales for the add button and the list container
 const addBtn = document.getElementById('add');
 const listContainer = document.querySelector('.list_container');
