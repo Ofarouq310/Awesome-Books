@@ -2,7 +2,7 @@
 
 # Awesome Books
 
-> A simple project built to create a booklist.
+> A simple UI project built to create a booklist.
 
 
 ## Built With
@@ -17,27 +17,25 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ofarouq310.github.io/Awesome_Books/)
 
 
 ## Getting Started
-
-**Welcome to our Awesome Books website.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- A web browser (like Google Chrome, Opera...).
+- A code editor (like Atom, VScode...).
+
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
+To setup the webpage locally: click on "**Code**" (dropdown list) then "**Download ZIP**".
 
 ### Deployment
+
+To run the project open the downloaded folder (after extraction) then run the "**index.html**" file in your browser.
 
 
 
@@ -67,9 +65,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- All thankfulness to Microverse for equipping me with such skills to utilize in real-world projects and applications. 
 
 ## 📝 License
 
