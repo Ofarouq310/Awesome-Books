@@ -50,8 +50,7 @@ To run the project open the downloaded folder (after extraction) then run the "*
 👤 **Kibrewossen Yitbarek**
 
 - GitHub: [@akos29](https://github.com/akos29)
-- Twitter: [@kbson](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
