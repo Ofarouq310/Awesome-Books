@@ -44,8 +44,8 @@ To run the project open the downloaded folder (after extraction) then run the "*
 👤 **Omar Farouq**
 
 - GitHub: [@Ofarouq310](https://github.com/Ofarouq310)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Ofaouq310](https://twitter.com/ofarouq310)
+- LinkedIn: [@Ofarouq310](https://www.linkedin.com/in/Ofarouq310/)
 
 👤 **Kibrewossen Yitbarek**
 
