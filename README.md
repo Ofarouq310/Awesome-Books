@@ -17,7 +17,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://ofarouq310.github.io/Awesome_Books/)
+[Live Demo Link](https://ofarouq310.github.io/Awesome-Books/)
 
 
 ## Getting Started
