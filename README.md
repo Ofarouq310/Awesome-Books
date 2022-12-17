@@ -1,45 +1,102 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Awesome Books
+<div align="center">
 
-> A simple UI project built to create a booklist.
+  <img src="https://github.com/Ofarouq310/Microverse_readme-template/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Awesome Books <a name="about-project"></a>
+
+- "Awesome Books" is a simple UI project built to create a booklist.
 
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-#### Major languages:
->- [x] HTML5
->- [x] CSS3
->- [x] Javascript
+### Tech Stack <a name="tech-stack"></a>
 
-#### Technologies used
->- [x] Linters
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+</details>
 
-## Live Demo (if available)
 
-[Live Demo Link](https://ofarouq310.github.io/Awesome-Books/)
+<details>
+  <summary>Technologies</summary>
+  <ul>
+    <li>Linters</li>
+    <li>Webpack</li>
+  </ul>
+</details>
 
+<!-- LIVE DEMO -->
 
-## Getting Started
+## 🚀 Live Demo <a name="live-demo"></a>
 
-To get a local copy up and running follow these simple example steps.
+- [Live Demo Link](https://ofarouq310.github.io/Awesome-Books/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- A web browser (like Google Chrome, Opera...).
-- A code editor (like Atom, VScode...).
+- Use `git clone` to clone the repository using the HTTPS link into your local machine
 
 ### Setup
 
-To setup the webpage locally: click on "**Code**" (dropdown list) then "**Download ZIP**".
+- `cd` into your local repository
+
+### Install
+
+- `npm install` - Installs the necessary dependencies
+
+### Usage
+
+- `npm run build` - Builds development files into production code
 
 ### Deployment
 
-To run the project open the downloaded folder (after extraction) then run the "**index.html**" file in your browser.
+- `npm start` - Starts the development server
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
-## Authors
+## 👥 Authors <a name="authors"></a>
 
 👤 **Omar Farouq**
 
@@ -47,25 +104,46 @@ To run the project open the downloaded folder (after extraction) then run the "*
 - Twitter: [@Ofaouq310](https://twitter.com/ofarouq310)
 - LinkedIn: [@Ofarouq310](https://www.linkedin.com/in/Ofarouq310/)
 
-👤 **Kibrewossen Yitbarek**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- GitHub: [@akos29](https://github.com/akos29)
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
 
-## 🤝 Contributing
+- [ ] [New styles will be implemented]
 
-Contributions, issues, and feature requests are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Feel free to check the [issues page](../../issues/).
+<!-- CONTRIBUTING -->
 
-## Show your support
+## 🤝 Contributing <a name="contributing"></a>
 
-Give a ⭐️ if you like this project!
+- Contributions, issues, and feature requests are welcome!
 
-## Acknowledgments
+- Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+- If you like this project, please feel free to give a ⭐.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - All thankfulness to Microverse for equipping me with such skills to utilize in real-world projects and applications. 
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./LICENSE.md) licensed.
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+- This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
