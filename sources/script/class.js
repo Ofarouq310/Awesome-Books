@@ -8,7 +8,7 @@ const contactContainer = document.querySelector('.contact');
 const linkItem = document.querySelectorAll('.nav_links');
 const form = document.getElementById('form');
 const date = document.getElementById('date');
-const h4 = document.querySelector('h4');
+const subHeading = document.querySelector('#sub--heading');
 
 // Populating the Date
 function populateDate() {
@@ -78,7 +78,7 @@ class Book {
           }
           if (listContainer.innerHTML === '') {
             listContainer.style.border = 'none';
-            h4.innerHTML = '"No books to display"';
+            subHeading.innerHTML = '"No books to display"';
           }
         });
       });
@@ -113,7 +113,7 @@ form.addEventListener('submit', async (e) => {
     listContainer.innerHTML = '';
     if (listContainer.innerHTML === '') {
       listContainer.style.border = '2px solid #000';
-      h4.innerHTML = '';
+      subHeading.innerHTML = '';
     }
     Book.displayBooks();
   }
